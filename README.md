@@ -20,7 +20,7 @@ Vuex
 VueRouter
 Tailwind CSS (You can write vanilla CSS if you want. We will apply these within the build)
 
-### Contribution Instructions
+### Contribution Instructions:
 If you are new to contibuting to open source projects, please follow the steps below
 - Fork the repository
 - Clone the forked repository to your local system
@@ -31,10 +31,10 @@ If you are new to contibuting to open source projects, please follow the steps b
 - Push the branch to Github
 - Submit Pull request
 
-### Etiquette
+### Etiquette :
 As this is a community project, selected reviewers will go through your code to ascertain if the quality is sufficient for it to be merged. You are however free to choose any member of the community to review your code however only specifically assigned members can merge your Pull Requests. Please be considerate towards reviewers/maintainers when raising issues or presenting pull requests. Let's show the world that LaravelUK members are civilized and great people to work with.
 
-## Submission Requirements
+## Submission Requirements :
 Before submitting a pull request:
 - Check the codebase to ensure that your feature doesn't already exist.
 - Check the pull requests to ensure that another person hasn't already submitted the feature or fix.
@@ -42,12 +42,12 @@ Before submitting a pull request:
 - It is important to add tests to your functionality, even if it is a very simple feature. If it is a UI change, it will be helpful to add a simple screenshot with a brief note so others will know what has changed
 - If you want to do more than one thing, send multiple pull requests.
 
-### Feedback Policy
+### Feedback Policy :
 
 We will strive for a "Zero Pull Request Pending" policy. This means, that if the pull request is good, it will be merged as soon as review is completed and if it does not meet the requirements, the contributor will be advised to make changes and re-submit.
 
 
-### Coding Standards
+### Coding Standards :
 As this is a Laravel application, we will be following the [PSR-2](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md) coding standard.
  - Interfaces should NOT be suffixed with Interface, Traits should NOT be suffixed with Trait
  - Class and method names must be descriptive enough with type-hints since we are not enforcing docblocks
